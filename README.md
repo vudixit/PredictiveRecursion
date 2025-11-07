@@ -1,0 +1,1 @@
+This R package contains the functions for running the Predictive Recursion (PR) algorithm (also called Newton's algorithm) for estimating the underlying mixing distribution for a general mixture density. 
